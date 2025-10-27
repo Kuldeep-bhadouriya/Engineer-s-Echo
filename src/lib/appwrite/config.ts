@@ -1,0 +1,1 @@
+// Appwrite client configuration
